@@ -2,6 +2,7 @@ body {
     background-color: rgb(235, 234, 227);
     padding: 15px;
     font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
 }
 h1,h2,h6{
     color: #66BFBF;
@@ -36,15 +37,8 @@ img {
     place-content: center;
 }
 
+.name-title{
+    max-width: 1200px;
+}
 
-/* hr {
-    border-style: dotted solid;
-    border-color: rgb(175, 171, 171);
-    border-width: 7px;
-    border-left: 0ch;
-    border-right: 0ch;
-    border-bottom: 0ch;
-    height: 2;
-    width: 5%;
-} */
 
